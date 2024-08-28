@@ -1,0 +1,50 @@
+C:\Users\Admin\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Admin\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Admin\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.FormQLTK.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.DangNhap.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.TrangChu.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.FormBill.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.Admin.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.DanhMuc.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.HoaDon.resources
+C:\Users\Admin\source\repos\Demo\Demo\obj\Debug\Demo.SanPham.resources
+E:\DO AN .NET\Demo\Demo\Demo\bin\Debug\Demo.exe.config
+E:\DO AN .NET\Demo\Demo\Demo\bin\Debug\Demo.exe
+E:\DO AN .NET\Demo\Demo\Demo\bin\Debug\Demo.pdb
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.Admin.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.DangNhap.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.SanPham.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.TrangChu.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.FormBill.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.exe
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.pdb
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.BaoCao.resources
+E:\DO AN .NET\Demo\Demo\Demo\obj\Debug\Demo.QLKH.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.Admin.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.DangNhap.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.BaoCao.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.QLKH.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.SanPham.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.TrangChu.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.FormBill.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Admin\Desktop\[D16CNPM2].Mai Tien Dat.Do Duc Nhat Anh\Demo\Demo\Demo\bin\Debug\Demo.pdb
